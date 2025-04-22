@@ -1,2 +1,5 @@
 # advanced-tool-594
-A lightweight and reusable codebase
+
+This is a sample project written in **Go**.
+
+Generated automatically.
